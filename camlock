@@ -22,4 +22,5 @@ Aiming.ShowFOV = false
 
  getgenv().AimlockKey = "c" -- aimbot toggle
  getgenv().AimPart = "UpperTorso" -- UpperTorso, LowerTorso, HumanoidRootPart, Head 
- getgenv().PredictionVelocity = 8.037 -- aimbot prediction.  getgenv().SmoothnessAmount = 0.73 -- dont go over 0.01
+ getgenv().PredictionVelocity = 8.037 -- aimbot prediction.  
+ getgenv().SmoothnessAmount = 0.73 -- dont go over 0.01
