@@ -13,7 +13,7 @@ end
 end
 end)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dozloco/dozloco/main/Dozware.md",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dozloco/dozloco/main/V2",true))()
 DaHoodSettings.Prediction = 0.137 -- lower for lower ping and higher for higher ping.
 Aiming.FOV = 9 -- size of silent aim
 Aiming.FOVSides = 25 -- how smooth silent aim circle is
